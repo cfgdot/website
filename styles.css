@@ -1,0 +1,38 @@
+body
+{
+	background-color: #d5d0ba;
+	font-family: 'Cambria';
+}
+
+a
+{
+	text-decoration: none;
+	color: #45404a;
+}
+
+
+table
+{
+	color: #000000;
+	text-align: center;
+	margin: auto;
+	padding-top: 25vh;
+}
+td
+{
+	padding: 20px 35px;
+	font-size:30px;
+}
+th
+{
+	padding: 1500px;
+}
+p {
+	color: #999999;
+	position: absolute;
+	bottom: 35px;
+	right: 1850px;
+	padding: 5px;
+	margin: 0px;
+	font-size: 20px;
+}
